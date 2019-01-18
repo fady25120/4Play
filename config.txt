@@ -1,0 +1,6 @@
+owner=503309740324159498
+prefix= 4
+game=Playing 4Play
+stayinchannel=true
+songinstatus=false
+token=NTM1NjMxNTg3MDE5MDYzMzA2.DyK9cQ.yCVXHXA45Aj4j77x5TgvO89fs3g
